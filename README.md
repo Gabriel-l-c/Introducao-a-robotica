@@ -18,8 +18,8 @@ O custo total estimado para o kit geral básico é de **por volta de R$ 200**, i
 Aprenda a baixar e instalar a IDE do Arduino de forma fácil e rápida para programar a sua placa.
 * 🎥 [Como baixar e instalar a IDE do arduino, Fácil e Rápido](https://www.youtube.com/watch?v=8PiqxMuMQVM) — por *Arduniv*
 
-Materia da revista medium (plataforma de publicacao de conteudos):
-Arduino para iniciantes (https://medium.com/@tech.b/arduino-para-iniciantes-4eb989538563) — por *Beatriz Alves*
+Materia da revista medium (plataforma de publicacao de conteudos).
+* Arduino para iniciantes (https://medium.com/@tech.b/arduino-para-iniciantes-4eb989538563) — por *Beatriz Alves*
 
 ### 2. VS Code & Python
 Configuração do ambiente de desenvolvimento alternativo para Windows e Linux.
